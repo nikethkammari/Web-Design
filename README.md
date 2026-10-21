@@ -309,7 +309,7 @@ Aspiring Software Engineer | Full-Stack Development | AI/ML
 
 ---
 
-## ⭐ Support the Project
+##  Support the Project
 
 If you find BorrowCircle interesting, consider starring the repository and sharing suggestions to improve community-based borrowing.
 
