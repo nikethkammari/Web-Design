@@ -1,5 +1,3 @@
-# Web-Design
-
 # BorrowCircle 🤝
 
 ### Borrow Less. Share More. Build Stronger Communities.
