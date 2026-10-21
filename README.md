@@ -159,7 +159,7 @@ BorrowCircle/
 
 This is the proposed structure and may change as development progresses.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
