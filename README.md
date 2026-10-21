@@ -8,7 +8,7 @@ Instead of buying items that are needed only occasionally, users can discover av
 
 Our mission is to make sharing convenient, affordable, and accessible while encouraging sustainable communities.
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [About the Project](#-about-the-project)
 - [Problem Statement](#-problem-statement)
@@ -23,7 +23,7 @@ Our mission is to make sharing convenient, affordable, and accessible while enco
 - [Contributing](#-contributing)
 - [Author](#-author)
 
-## 📖 About the Project
+##  About the Project
 
 People often purchase items they need for only a short period, even when someone in their community already owns them. Finding these items through personal contacts or messaging groups can be inconvenient.
 
@@ -31,7 +31,7 @@ BorrowCircle aims to solve this problem by creating a centralized platform where
 
 The platform focuses on community-based sharing, responsible borrowing, and transparent transactions.
 
-## ❗ Problem Statement
+##  Problem Statement
 
 - People spend money on items they rarely use.
 - Finding someone willing to lend an item can be difficult.
@@ -39,7 +39,7 @@ The platform focuses on community-based sharing, responsible borrowing, and tran
 - Owners may be concerned about the safety of their belongings.
 - Communities lack a centralized platform for sharing resources.
 
-## 💡 Our Solution
+##  Our Solution
 
 BorrowCircle provides a simple and organized platform where users can:
 
@@ -50,48 +50,48 @@ BorrowCircle provides a simple and organized platform where users can:
 - Track borrowing status and return dates.
 - Build trust through community verification and transaction-based feedback.
 
-## ✨ Key Features
+##  Key Features
 
-### 👤 User Authentication
+###  User Authentication
 - Secure user registration and login.
 - Personal profiles.
 - Community membership verification.
 
-### 📦 Item Listings
+###  Item Listings
 - Add item names, descriptions, categories, and photos.
 - Specify availability and borrowing conditions.
 - Update or remove personal listings.
 
-### 🔎 Browse and Search
+###  Browse and Search
 - Search for items by name or keyword.
 - Filter by category and availability.
 - Explore resources shared by community members.
 
-### 📅 Borrowing Requests
+###  Borrowing Requests
 - Select a preferred borrowing period.
 - Send requests to item owners.
 - Allow owners to approve or reject requests.
 - Prevent overlapping approved bookings.
 
-### 🔄 Borrowing and Return Tracking
+###  Borrowing and Return Tracking
 - View currently borrowed items.
 - Track upcoming return dates.
 - Record handover and return confirmations.
 - Identify overdue items.
 
-### 🛡️ Community Trust
+###  Community Trust
 - Organize listings by college, hostel, apartment, or workplace.
 - Restrict private listings to authorized members.
 - Report issues and provide feedback on completed transactions.
 
-### 🌱 Community Impact
+###  Community Impact
 - Track successful borrowing transactions.
 - Display the number of items shared.
 - Estimate purchases potentially avoided through sharing.
 
 > Note: Features will be implemented progressively. Planned features are not necessarily available in the current version.
 
-## 🔄 How It Works
+##  How It Works
 
 1. **Join:** Create an account and join a community.
 2. **Discover:** Browse items shared by community members.
@@ -101,7 +101,7 @@ BorrowCircle provides a simple and organized platform where users can:
 6. **Return:** Return the item and confirm the transaction.
 7. **Share Again:** Provide feedback and continue sharing resources.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 The proposed technology stack for the project is:
 
@@ -253,7 +253,7 @@ Connect the repository to [Vercel](https://vercel.com/) and deploy the applicati
 
 Configure the required environment variables before deploying Firebase-dependent functionality.
 
-## 🔐 Security Considerations
+##  Security Considerations
 
 - Enforce database access permissions through Firebase Security Rules.
 - Restrict private listings to authorized community members.
@@ -262,7 +262,7 @@ Configure the required environment variables before deploying Firebase-dependent
 - Protect personal information and private contact details.
 - Provide a reporting mechanism for disputes and overdue items.
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
 - Email and in-app borrowing reminders.
 - QR codes for item handover and return confirmation.
@@ -273,7 +273,7 @@ Configure the required environment variables before deploying Firebase-dependent
 - Progressive Web App support.
 - Multilingual support.
 
-## 🌍 Expected Impact
+##  Expected Impact
 
 BorrowCircle aims to encourage:
 
@@ -285,7 +285,7 @@ BorrowCircle aims to encourage:
 
 Actual results will depend on community participation and adoption.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and improvements are welcome!
 
@@ -297,7 +297,7 @@ Contributions, suggestions, and improvements are welcome!
 
 Please maintain readable code and avoid committing credentials or private user information.
 
-## 👨‍💻 Author
+##  Author
 
 **Niketh Kammari**
 
