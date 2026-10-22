@@ -1,6 +1,6 @@
 # BorrowCircle 
 
-### Borrow, Share More, Build Stronger Communities.
+### Borrow, Share, Build Stronger Communities.
 
 BorrowCircle is a community-based borrowing and lending web application that helps people share useful items within trusted communities such as colleges, hostels, apartments, and workplaces.
 
